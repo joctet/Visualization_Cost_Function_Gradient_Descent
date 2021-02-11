@@ -1,6 +1,7 @@
-# Level Circles - Cost-Function - Gradient Descent
+# Cost-Function - Gradient Descent - Level Circles
 
 Hi! 
-Here we will plot the level circles of a function, and then apply this visualization to the gradient descent.
+Here we will compute the gradient of an arbitrary cost function and display its evolution during gradient descent. 
+All the code is available and explained in details.
 
-![alt text](https://github.com/joctet/Level-Circles---Cost-Function---Gradient-Descent/blob/main/Level_circles_visu.png)
+![alt text](https://github.com/joctet/Gradient-Descent---Evolution-of-the-Cost-Function/blob/main/grad_descent_visu.png)
